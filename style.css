@@ -1,5 +1,7 @@
 html, body {
     font-family: "Courier New", Courier, monospace;
+    background-color: rgb(44, 43, 43);
+    color: rgb(74, 128, 74);
 }
 
 .content {
@@ -9,6 +11,6 @@ html, body {
 }
 
 .news {
-    border: 1px solid black;
+    border: 1px solid rgb(54, 141, 71);
     margin: 5px;
 }
